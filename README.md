@@ -1,9 +1,9 @@
-<img src="assets/banner.svg" alt="GOTY — DMA, ESP and systems tooling" width="100%">
+<img src="assets/banner.svg" alt="GOTY — DMA, DevOps and web development" width="100%">
 
-### DMA / ESP / systems tooling
+### DMA / DevOps / web development
 
 I work with C#, C++, C, Python, Rust and JavaScript, plus HTML and CSS for the web.
-My focus here is DMA/ESP projects, memory-reading pipelines and Windows rendering.
+My interests include DMA development, web services and server infrastructure.
 This profile is a home for public source snapshots and small tools around that stack.
 
 ![C#](https://img.shields.io/badge/C%23-512bd4?style=flat-square)
@@ -24,7 +24,7 @@ This profile is a home for public source snapshots and small tools around that s
 
 ### What I do & what interests me
 
-- Demo development.
+- DMA development.
 - Web development and web services.
 - Server infrastructure and DevOps.
 
