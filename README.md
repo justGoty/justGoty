@@ -22,10 +22,10 @@ This profile is a home for public source snapshots and small tools around that s
 | [GOTY ESP · Tarkov](https://github.com/justGoty/goty-esp-dma-tarkov) | C++ source snapshot: DMA reads, player/loot ESP, DirectX Fuser rendering. |
 | [DMA Project Watch](https://github.com/justGoty/dma-project-watch) | A lightweight GitHub release tracker for the DMA/ESP ecosystem. |
 
-### What I care about
+### What I do & what interests me
 
-- Fresh, consistent memory snapshots and measurable diagnostics.
-- Clear separation between the read pipeline and rendering.
-- Reproducible offline checks; hardware compatibility is a separate test.
+- Demo development.
+- Web development and web services.
+- Server infrastructure and DevOps.
 
 Questions and bug reports belong in the relevant repository's issues.
