@@ -2,12 +2,18 @@
 
 ### DMA / ESP / systems tooling
 
-I work on C++ DMA/ESP projects, memory-reading pipelines and Windows rendering.
+I work with C#, C++, C, Python, Rust and JavaScript, plus HTML and CSS for the web.
+My focus here is DMA/ESP projects, memory-reading pipelines and Windows rendering.
 This profile is a home for public source snapshots and small tools around that stack.
 
-![C++](https://img.shields.io/badge/C%2B%2B-20-58a6ff?style=flat-square&logo=cplusplus&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-x64-30363d?style=flat-square)
-![Python](https://img.shields.io/badge/Python-standard%20library-3fb950?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512bd4?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-58a6ff?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3fb950?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ce422b?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css&logoColor=white)
 
 ### Projects
 
