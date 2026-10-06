@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">GOTY — DMA / ESP / SYSTEMS</title>
+  <desc id="desc">A dark blue banner with a circuit motif and a green signal indicator.</desc>
+  <rect width="1200" height="260" rx="18" fill="#0d1117"/>
+  <g fill="none" stroke="#1f354d" stroke-width="2">
+    <path d="M710 48h118l38 38h196m-340 118h142l46-46h160M802 0v68l46 46h252M756 260v-52l54-54h292"/>
+    <rect x="886" y="88" width="88" height="88" rx="10"/>
+    <path d="M910 88V62m20 26V62m20 26V62m-40 114v26m20-26v26m20-26v26M886 110h-28m28 22h-28m28 22h-28m116-44h28m-28 22h28m-28 22h28"/>
+  </g>
+  <circle cx="1062" cy="86" r="5" fill="#3fb950"/>
+  <text x="58" y="111" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="5">GOTY</text>
+  <text x="61" y="158" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="4">DMA / ESP / SYSTEMS</text>
+  <text x="61" y="202" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="17">C++ · Windows x64 · tooling</text>
+</svg>
