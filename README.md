@@ -20,7 +20,7 @@ This profile is a home for public source snapshots and small tools around that s
 | Project | Focus |
 | --- | --- |
 | [GOTY ESP · Tarkov](https://github.com/justGoty/goty-esp-dma-tarkov) | C++ source snapshot: DMA reads, player/loot ESP, DirectX Fuser rendering. |
-| [DMA Project Watch](https://github.com/justGoty/dma-project-watch) | A lightweight GitHub release tracker for the DMA/ESP ecosystem. |
+| [DMA Project Watch · dashboard](https://justgoty.github.io/dma-project-watch/) | Release intelligence for DMA tooling: Python CLI, Docker, CI/CD and daily GitHub Pages delivery. [Source](https://github.com/justGoty/dma-project-watch). |
 
 ### What I do & what interests me
 
