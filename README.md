@@ -1,6 +1,6 @@
 <img src="assets/banner.svg" alt="GOTY — DMA, DevOps and web development" width="100%">
 
-### DMA / DevOps / web development
+### SoftwareDev / DevOps / web development
 
 I work with C#, C++, C, Python, Rust and JavaScript, plus HTML and CSS for the web.
 My interests include DMA development, web services and server infrastructure.
