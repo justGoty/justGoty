@@ -22,4 +22,6 @@ This profile is a home for public source snapshots and small tools around that s
 | [GOTY ESP · Tarkov](https://github.com/justGoty/goty-esp-dma-tarkov) | C++ source snapshot: DMA reads, player/loot ESP, DirectX Fuser rendering. |
 | [DMA Project Watch · dashboard](https://justgoty.github.io/dma-project-watch/) | Release intelligence for DMA tooling: Python CLI, Docker, CI/CD and daily GitHub Pages delivery. [Source](https://github.com/justGoty/dma-project-watch). |
 
-Like to code review and refactor. Well Vanguard is going to be reversed soon
+Like to code review and refactor. Working with factory hard and software for automatization and interfaces such as UART, RS485 and 4-20. 
+Responsible for company's server infrastructure and Websites, monitoring apps.
+
