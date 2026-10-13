@@ -1,10 +1,17 @@
-<img src="assets/banner.svg" alt="GOTY — DMA, DevOps and web development" width="100%">
+<img src="assets/banner.jpg" alt="Software development, DevOps and web services" width="100%">
 
-### SoftwareDev / DevOps / web development
+I work with existing codebases: reviewing code, refactoring complex parts,
+fixing edge cases, and making software easier to maintain. I enjoy taking a
+working idea and improving its structure, reliability, and everyday usability.
 
-I work with C#, C++, C, Python, Rust and JavaScript, plus HTML and CSS for the web.
-My interests include DMA development, web services and server infrastructure.
-This profile is a home for public source snapshots and small tools around that stack.
+My stack includes C#, C++, C, Python, Rust, and JavaScript, with HTML and CSS
+for web projects. I like practical engineering, clear interfaces, and changes
+that make a project easier to understand and build on.
+
+Alongside development, I work with industrial software and hardware integration,
+automation interfaces such as UART, RS-485, and 4–20 mA, as well as server
+infrastructure, websites, and monitoring tools. Connecting these areas and
+keeping systems useful over time is a big part of what I do.
 
 ![C#](https://img.shields.io/badge/C%23-512bd4?style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-58a6ff?style=flat-square&logo=cplusplus&logoColor=white)
@@ -14,14 +21,3 @@ This profile is a home for public source snapshots and small tools around that s
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css&logoColor=white)
-
-### Projects
-
-| Project | Focus |
-| --- | --- |
-| [GOTY ESP · Tarkov](https://github.com/justGoty/goty-esp-dma-tarkov) | C++ source snapshot: DMA reads, player/loot ESP, DirectX Fuser rendering. |
-| [DMA Project Watch · dashboard](https://justgoty.github.io/dma-project-watch/) | Release intelligence for DMA tooling: Python CLI, Docker, CI/CD and daily GitHub Pages delivery. [Source](https://github.com/justGoty/dma-project-watch). |
-
-Like to code review and refactor. Working with factory hard and software for automatization and interfaces such as UART, RS485 and 4-20. 
-Responsible for company's server infrastructure and Websites, monitoring apps.
-
