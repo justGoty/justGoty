@@ -21,3 +21,10 @@ keeping systems useful over time is a big part of what I do.
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css&logoColor=white)
+
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justGoty/justGoty/snake-output/contribution-snake-dark.svg">
+  <img alt="Snake animation based on my GitHub contributions" src="https://raw.githubusercontent.com/justGoty/justGoty/snake-output/contribution-snake.svg">
+</picture>
